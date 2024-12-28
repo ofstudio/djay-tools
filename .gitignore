@@ -1,0 +1,9 @@
+.idea/
+playgrounds/
+dist/
+.run/
+.env*
+
+# Go workspace file
+go.work
+go.work.sum
